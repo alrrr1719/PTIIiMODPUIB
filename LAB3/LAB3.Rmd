@@ -1,6 +1,6 @@
 ---
 title: "Lab2.3"
-author: "kooko5896"
+author: "alrrr1719"
 date: "2023-05-22"
 output: html_document
 ---
